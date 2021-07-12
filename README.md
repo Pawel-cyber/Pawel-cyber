@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pawel-cyber
+- 🌱 I’m currently learning c++, java
+- 📫 How to reach me szymanskip524@gmail.com
